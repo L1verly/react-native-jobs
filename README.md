@@ -19,7 +19,7 @@ Contains styleshees implemented by React-Native
 ##### utils
 Has utilities for certain usages in the app
 #### .env
-Contains environment variables
+Contains environment variables like API key to have access to jobs API
 
 
 
